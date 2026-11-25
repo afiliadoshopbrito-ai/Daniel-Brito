@@ -1,0 +1,30 @@
+{
+ "video": "base.video.mp4",
+ "orig": "base.orig.wav",
+ "orig_volume": 0.3,
+ "narration": "narr_out/narracao.wav",
+ "fx_volume": 0.5,
+ "overlays": [
+  {
+   "seq": "fx/title",
+   "at": 0.25
+  },
+  {
+   "seq": "fx/links",
+   "at": 6.0
+  },
+  {
+   "seq": "fx/fornecedor",
+   "at": 35.75
+  },
+  {
+   "seq": "fx/fornecedor",
+   "at": 52.7
+  },
+  {
+   "seq": "fx/comenta",
+   "at": 80.0
+  }
+ ],
+ "out": "unboxing_final.mp4"
+}

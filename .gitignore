@@ -1,0 +1,13 @@
+# mídia e arquivos gerados não vão para o git
+*.mp4
+*.MOV
+*.mov
+*.m4a
+*.wav
+*.jpg
+*.png
+!video-toolkit/**/*.md
+fx/
+narr_out/
+videos/
+__pycache__/
